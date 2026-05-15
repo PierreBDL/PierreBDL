@@ -51,8 +51,7 @@ N'hésite pas à jeter un œil à mes dépôts épinglés juste en dessous ! Tu 
 ### 📈 Mes Statistiques GitHub
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=PierreBDL&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques de Pierre" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierreBDL&layout=compact&theme=tokyonight&hide=html,css" alt="Langages les plus utilisés" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PierreBDL&theme=tokyonight" alt="Streak Stats" height="160px"/>
 </p>
 
 ---
