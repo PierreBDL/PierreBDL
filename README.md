@@ -38,6 +38,13 @@ Enchanté ! Je suis actuellement **étudiant en première année (B1) Informatiq
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) *(incluant JavaFX)*
 
+#### Logiciels / Services utilisés
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white)
+
 ---
 
 ### 🛠️ Mes Projets Principaux
