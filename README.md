@@ -8,7 +8,7 @@ Enchanté ! Je suis actuellement **étudiant en première année (B1) Informatiq
 * 📍 **Localisation :** Bordeaux, France
 * 🎓 **Formation :** Bachelor Informatique - Ynov Campus
 * 💼 **Objectif :** Web development & Game development
-* 🔗 **Réseau :** [Retrouve-moi sur LinkedIn](https://www.linkedin.com/in/pierre-bourgeois-de-lavergne-525a3b335)
+* 🔗 **Réseau :** [Retrouve-moi sur LinkedIn](https://www.linkedin.com/in/pierre-bourgeois-de-lavergne)
 
 ---
 
@@ -65,5 +65,5 @@ N'hésite pas à jeter un œil à mes dépôts épinglés juste en dessous ! Tu 
 
 ### 💬 Me contacter
 
-* **LinkedIn :** [Pierre Bourgeois de Lavergne](https://www.linkedin.com/in/pierre-bourgeois-de-lavergne-525a3b335)
+* **LinkedIn :** [Pierre Bourgeois de Lavergne](https://www.linkedin.com/in/pierre-bourgeois-de-lavergne)
 * **GitHub :** Tu es déjà au bon endroit ! 🛠️
