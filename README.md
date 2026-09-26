@@ -1,6 +1,6 @@
 # Salut, moi c'est Pierre ! 👋
 
-Enchanté ! Je suis actuellement **étudiant en première année (B1) Informatique** à **Bordeaux Ynov Campus**. Passionné par le développement, j'adore explorer de nouvelles technologies, concevoir des applications et relever des défis logiques, du web au développement de jeux vidéo.
+Enchanté ! Je suis actuellement **étudiant en première année (B2) Informatique** à **Bordeaux Ynov Campus**. Passionné par le développement, j'adore explorer de nouvelles technologies, concevoir des applications et relever des défis logiques, du web au développement de jeux vidéo.
 
 ---
 
@@ -18,14 +18,20 @@ Enchanté ! Je suis actuellement **étudiant en première année (B1) Informatiq
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### 🗄️ Gestion de Données & API
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 #### ⚙️ Développement Web Backend
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/PHP_Vanilla-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
